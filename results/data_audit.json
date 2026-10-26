@@ -1,0 +1,28 @@
+{
+  "raw_rows": 325199,
+  "clean_rows": 26661,
+  "train_rows": 21328,
+  "test_rows": 5333,
+  "seed": 42,
+  "threshold": 0.5,
+  "missing_pct_train": {
+    "nevents": 17.08,
+    "ndays_act": 10.53,
+    "ncontent": 0.0,
+    "nforum_posts": 68.11
+  },
+  "missing_pct_test": {
+    "nevents": 17.1,
+    "ndays_act": 10.09,
+    "ncontent": 0.0,
+    "nforum_posts": 67.84
+  },
+  "class_share_train": {
+    "0": 0.8246,
+    "1": 0.1754
+  },
+  "class_share_test": {
+    "0": 0.8247,
+    "1": 0.1753
+  }
+}

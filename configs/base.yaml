@@ -1,0 +1,6 @@
+seed: 42
+raw_path: data/raw/CNPC_1401-1509_DI_v1_1_2016-03-01.tab
+processed_dir: data/processed
+results_dir: results
+target_threshold: 0.5   # completed_% is on a 0-1 scale in this file
+test_size: 0.2
